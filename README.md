@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ehtesham25
 - 👀 I’m interested in react-native, Javascript
-- 🌱 I’m currently working as react-native developer at alfarajs Solutions Rawalpindi
+- 🌱 I’m currently working as react-native developer at alfaraj Solutions Rawalpindi
 
 - 📫 You can contact me on linkedin https://www.linkedin.com/in/ehtesham-ul-haq-b92872161/
 
