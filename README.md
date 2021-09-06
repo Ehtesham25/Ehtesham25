@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Ehtesham25
-- 👀 I’m interested in react-native, Javascript
-- 🌱 I’m currently working as react-native developer at alfaraj Solutions Rawalpindi
+Hey there, welcome!
+I'm Ehtisham kha, React-Native developer from  Pakistan.
 
-- 📫 You can contact me on linkedin https://www.linkedin.com/in/ehtesham-ul-haq-b92872161/
-
-<!---
-Ehtesham25/Ehtesham25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡  I like to explore new trends and learn new technologies.
+🌱  I'm on track for learning more about React, Redux and nodejs.
+💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
