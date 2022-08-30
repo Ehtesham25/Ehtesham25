@@ -3,8 +3,8 @@
 
 <h3> My Working Experience:</h3>
 <ul>
-<li>☕ Worked to develop mobile application.</li>
-<li>🙋 ex employees of </li>
+<li>☕ Worked to develop mobile application. <a href="https://play.google.com/store/search?q=feedu&c=apps&hl=en&gl=US">Feedu</a></li>
+<li>🙋 ex employees of <a href="https://nesl-it.com/">Neslit</a> </li>
 <li>🙋 working on Real state webiste. </li>
 <li>🙋 Developed Real Chat app in React native and website in Reactjs</li>
 <li>🙋 Learning GraphQL and Azure clouds services.</li>
