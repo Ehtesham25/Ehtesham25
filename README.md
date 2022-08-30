@@ -21,7 +21,7 @@
 <li align="left">🔨 Convert graphic designs to usable web images using React JS. </li>
 </ul>
 
-<h5>Reach Ehtisham!</h5>
+<h3>Reach Ehtisham!</h3>
 <a href="https://www.linkedin.com/in/ehtisham-ul-haq-b92872161/"> LikendIn. </a>
 <br/>
 <a href="https://www.linkedin.com/in/ehtisham-ul-haq-b92872161/"> Portfolio. </a>
