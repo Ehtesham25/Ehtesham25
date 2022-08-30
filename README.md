@@ -1,5 +1,5 @@
-<h1 align="center">Hi, Welcome to Ehtisham's GitHub👋.</h1>
-<h3 align="center">A passionate MERN Stack developer.</h3>
+<h1 align="left">Hi, Welcome to Ehtisham's GitHub👋.</h1>
+<h3 align="left">A passionate MERN Stack developer.</h3>
 
 <h3> My Working Experience:</h3>
 <ul>
