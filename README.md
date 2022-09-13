@@ -22,7 +22,7 @@
 </ul>
 
 <h3>Reach Ehtisham!</h3>
-<a target="_blank" href="https://www.linkedin.com/in/ehtisham-ul-haq-b92872161/"> LikendIn. </a>
+<a target="_blank"  href="https://www.linkedin.com/in/ehtisham-ul-haq-b92872161/"> LikendIn. </a>
 <br/>
 <a target="_blank" href="https://candid-frangollo-0be55a.netlify.app/"> Portfolio. </a>
 
