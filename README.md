@@ -26,7 +26,7 @@
 <br/>
 <a target="_blank" href="https://ehtisham-mern-dev.netlify.app/"> Portfolio </a>
 <br/>
-<a target="_blank" href="https://ehtisham-mern-dev.netlify.app/"> Facebook </a>
+<a target="_blank" href="https://web.facebook.com/ehtesham.ulhaq.503/"> Facebook </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
