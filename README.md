@@ -25,6 +25,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ehtisham-ul-haq-b92872161/"> LikendIn </a>
 <br/>
 <a target="_blank" href="https://ehtisham-mern-dev.netlify.app/"> Portfolio </a>
+<a target="_blank" href="https://ehtisham-mern-dev.netlify.app/"> Facebook </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
