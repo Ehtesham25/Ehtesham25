@@ -8,7 +8,7 @@
 <li>🙋 working on Real state webiste <a href="https://www.strideup.co/">stride up.</a> </li>
 <li>🙋 Developed Real Chat app in React native and website in Reactjs.</li>
 <li>🙋 Developed <a href="#">Food delivery</a> website as hobby.</li>
-<li>🙋 Developed <a href="#">Online shoes store </a> as hobby in Reactjs.</li>
+<li>🙋 Developed <a href="https://online-shoes-store.netlify.app/">Online shoes store </a> as hobby in Reactjs.</li>
 <li>🙋 Learning GraphQL and Azure clouds services.</li>
 <li>🚀 Built Multiple Websites and mobile applications for Several businesses.</li>
 </ul>
