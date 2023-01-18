@@ -5,6 +5,7 @@
 <ul>
 <li>🙋 ex employees of <a href="https://nesl-it.com/">Neslit.</a> </li>
 <li>☕ Worked to develop mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
+<li>☕ Worked to develop mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
 <li>🙋 worked on Real state webiste <a href="https://www.strideup.co/">stride up.</a> </li>
 <li>🙋 Developed Real Chat app in React native and website in Reactjs.</li>
 <li>🔨 Developed <a target ="_blank" href="https://food-delivery-using-tailwind.vercel.app/">Food delivery</a> website as hobby.</li>
