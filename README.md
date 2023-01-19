@@ -20,7 +20,7 @@
 <li align="left">💪 My strength in rapid responsive Designing in React js and mobile application using React native.</li>
 <li align="left">🎨 I can design amazing layout using Bootstrap, MUI, and Ant design.</li>
 <li align="left">👯 My skills are in designing, web development, Mobile app development and REST API using Nodejs.</li>
-<li align="left">🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux.</li>
+<li align="left">💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux.</li>
 <li align="left">🔨 Convert graphic designs to usable web images using React JS.</li>
 </ul>
 
