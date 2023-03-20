@@ -4,7 +4,7 @@
 <h3> My Working Experience:</h3>
 <ul>
 <li>🙋 ex employees of <a href="https://nesl-it.com/">Neslit.</a> </li>
-<li>☕ Worked to develop mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
+<li>☕ Worked on to developed mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
 <li>☕ Wrote REST APIs in node js for <a href="http://www.heretofeedu.com/">Foodbook</a> website.</li>
 <li>🙋 worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
 <li>🙋 Developed Real Chat app in React native and website in Reactjs.</li>
