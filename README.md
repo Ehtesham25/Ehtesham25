@@ -13,7 +13,7 @@
 <li>🙋 Learning GraphQL and Azure clouds services.</li>
 <li>🚀 Developed Multiple Websites and mobile applications for Several businesses.</li>
 <li>🚀 Developed several website using Tailwind CSS.</li>
-</ul>
+</ul> 
 <h3 align="left">What I can do:</h3>
 <ul>
 <li align="left">🌱 I’m Full Time MERN Stack Developer.</li>
