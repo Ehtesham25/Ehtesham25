@@ -7,7 +7,7 @@
 <li>☕ Worked on to developed mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
 <li>☕ Wrote REST APIs in node js for <a href="http://www.heretofeedu.com/">Foodbook</a> website.</li>
 <li>🙋 Worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
-<li>🙋 Developed Real Chat app in React native and website in React JS.</li>
+<li>🙋 Developed Real Chat app in React Native and website in React JS.</li>
 <li>🔨 Developed <a target ="_blank" href="https://food-delivery-using-tailwind.vercel.app/">Food delivery</a> website as hobby.</li>
 <li>🔨 Developed <a href="https://online-shoes-store.netlify.app/">Online shoes store </a> as hobby in React JS.</li>
 <li>🙋 Learning GraphQL and Azure clouds services.</li>
