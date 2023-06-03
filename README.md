@@ -28,7 +28,7 @@
 <h3>Reach me!</h3>
 <a target="_blank" href="https://www.linkedin.com/in/ehtisham-ul-haq-b92872161/"> LinkedIn </a>
 <br/>
-<a target="_blank" href="https://ehtisham-mern-dev.netlify.app/"> Portfolio </a>
+<a target="_blank" href=""> Portfolio </a>
 <br/>
 <a target="_blank" href="https://web.facebook.com/ehtesham.ulhaq.503/"> Facebook </a>
 
