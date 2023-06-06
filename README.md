@@ -1,6 +1,5 @@
 <h1 align="left">Hi, Welcome to Ehtesham's GitHub 👋</h1>
 <h3 align="left">A passionate MERN Stack developer.</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <h3> My Working Experience:</h3>
 <ul>
