@@ -12,7 +12,7 @@
 <li>🔨 Developed <a href="https://online-shoes-store.netlify.app/">Online shoes store </a> as hobby in React JS.</li>
 <li>🙋 Learning GraphQL and Azure clouds services.</li>
 <li>🚀 Developed Multiple Websites and mobile applications for several businesses.</li>
-<li>🚀 Developed several website using Tailwind CSS.</li>
+<li>🚀 Developed several websites using Tailwind CSS.</li>
 </ul> 
 <h3 align="left">What I can do:</h3>
 <ul>
