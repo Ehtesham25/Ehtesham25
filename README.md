@@ -18,7 +18,7 @@
 <ul>
 <li align="left">🌱 I’m Full Time MERN Stack Developer.</li>
 <li align="left">🌱 I have full Grip in Next JS and Typescript.</li>
-<li align="left">💪 My strength in rapid responsive Designing in React js and mobile application using React native.</li>
+<li align="left">💪 My strength in rapid responsive Designing in React js and mobile applications using React native.</li>
 <li align="left">🎨 I can design amazing layout using Bootstrap, MUI, and Ant design.</li>
 <li align="left">👯 My skills are in designing, web development, Mobile app development and REST API using Nodejs.</li>
 <li align="left">💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux.</li>
