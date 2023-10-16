@@ -4,7 +4,7 @@
 <h3> My Working Experience:</h3>
 <ul>
 <li>🙋Working as full-stack developer in <a href="https://12u12.com/">12u12.</a> </li>
-<li>🙋Working on  <a href="https://app-dev.12u12.com/symptom/">12u12</a> web application using ReactJS. </li>
+<li>🙋Working on  <a href="https://app-dev.12u12.com/symptom/">12u12</a> web application using React JS. </li>
 <li>🙋 ex-employee of <a href="https://nesl-it.com/">Nesl-IT.</a> </li>
 <li>☕ Worked on to developed mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
 <li>☕ Wrote RestFull API's in node js for <a href="http://www.heretofeedu.com/">Foodbook</a> website.</li>
