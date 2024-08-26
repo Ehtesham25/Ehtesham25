@@ -7,7 +7,7 @@
 <li>🙋Working on  <a href="https://app-dev.12u12.com/symptom/">12u12</a> web application using React JS. </li>
 <li>🙋 ex-employee of <a href="https://nesl-it.com/">Nesl-IT.</a> </li>
 <li>☕ Worked on to developed mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
-<li>☕ Wrote REST-full API's in node Js for <a href="http://www.heretofeedu.com/">Foodbook</a> website.</li>
+<li>☕ Wrote REST-full API's in node Js for <a href="https://feedu.co.il/">Foodbook</a> website.</li>
 <li>🙋 Worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
 <li>🙋 Developed Real Chat app in React Native and website in React JS.</li>
 <li>🔨 Developed <a target ="_blank" href="https://food-delivery-using-tailwind.vercel.app/">Food delivery</a> website as hobby.</li>
