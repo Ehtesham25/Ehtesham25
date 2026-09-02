@@ -11,7 +11,7 @@
 <li>🙋 Worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
 <li>🙋 Developed Real Chat app in React Native and website in React JS.</li>
 <li>🔨 Developed <a target ="_blank" href="https://food-delivery-using-tailwind.vercel.app/">Food delivery</a> website as hobby.</li>
-<li>🔨 Developed <a href="https://online-shoes-store.netlify.app/">Online shoes store </a> as hobby in React JS.</li>
+<li>🔨 Developed <a href="https://online-shoes-store.netlify.app/">online shoes store </a> as hobby in React JS.</li>
 <li>🙋 Learning GraphQL and Azure cloud services.</li>
 <li>🚀 Developed Multiple Websites and mobile applications for several businesses.</li>
 <li>🚀 Developed several websites using Tailwind CSS.</li>
