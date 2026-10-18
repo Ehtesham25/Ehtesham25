@@ -6,7 +6,7 @@
 <li>🙋Working as full-stack developer at <a href="https://12u12.com/">12u12 Technology.</a> </li>
 <li>🙋Working on  <a href="https://app-dev.12u12.com/symptom/">12u12</a> web application using React JS. </li>
 <li>🙋ex-employee of <a href="https://nesl-it.com/">Nesl-IT.</a> </li>
-<li>☕ Worked on to developed mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
+<li>☕Worked on to developed mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
 <li>☕ Developed REST-full API's in Node JS for <a href="https://feedu.co.il/">Foodbook</a> website.</li>
 <li>🙋 Worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
 <li>🙋 Developed Real Chat app in React Native and website in React JS.</li>
